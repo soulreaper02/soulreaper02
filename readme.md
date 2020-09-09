@@ -34,7 +34,15 @@
 <br />
 <br />
 
+--------
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical)
+
 ---------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper)](https://github.com/anuraghazra/github-readme-stats)
+
+-----------
 
 ### 📕 Latest Blog Posts
 
