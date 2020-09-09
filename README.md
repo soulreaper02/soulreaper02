@@ -5,7 +5,7 @@
 <!-- [<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit] -->
 
 
-- 👨🏾‍💻I am currently working as a techonlogy lead @trustcheckr
+- 👨🏾‍💻I am currently working as a Software Engineer @trustcheckr
 - 📚I am currently learning everything 
 - 🔥2020 Goals - Contribute to open source projects
 - ❤️ I love to travel and code.
