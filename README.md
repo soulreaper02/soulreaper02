@@ -1,15 +1,15 @@
-## Hi there, I'm amit 👾                                                                                           ![visitors](https://visitor-badge.glitch.me/badge?page_id=soulreaper02.soulreaper02)
+<p align="center">## Hi there, I'm amit 👾</p>
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <!-- [<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit] -->
 
 
-- 👨🏾‍💻 <span style="font-family: 'Antic Slab', serif';">I'm currently working as a Software Engineer @trustcheckr</span>
-- 🌱 <span style="font-family: 'Antic Slab', serif';">I’m currently learning GO</span>
-- 🔥 <span style="font-family: 'Antic Slab', serif';">2020 Goals - Contribute to open source projects</span>2020 Goals - Contribute to open source projects
-- ❤️ <span style="font-family: 'Antic Slab', serif';">I love to travel and code.r</span>I love to travel and code.
-- ⚡ <span style="font-family: 'Antic Slab', serif';">Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra</span>Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
+- 👨🏾‍💻 I'm currently working as a Software Engineer @trustcheckr</span>
+- 🌱 I’m currently learning GO</span>
+- 🔥 2020 Goals - Contribute to open source projects</span>2020 Goals - Contribute to open source projects
+- ❤️ I love to travel and code.r</span>I love to travel and code.
+- ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra</span>Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
 
 <br />
 
@@ -65,6 +65,9 @@
 <!-- BLOG-POST-LIST:START -->
 [Building facebook messenger chat bot](https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2)
 <!-- BLOG-POST-LIST:END -->
+
+---------
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=soulreaper02.soulreaper02)
 
 
 [instagram]: https://www.instagram.com/amit_kumar_02
