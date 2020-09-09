@@ -49,6 +49,7 @@
 > ***My Github Activity***
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//soulreaper02/soulreaper02/issues/1) in [soulreaper02/soulreaper02](https://github.com//soulreaper02/soulreaper02)
 <!--END_SECTION:activity-->
 -----------
 
