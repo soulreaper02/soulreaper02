@@ -1,5 +1,5 @@
-## Hi there. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-#### This is where i like to build & break things
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+This is the place where I opensource stuff and break things :rofl:
 
 ![](https://komarev.com/ghpvc/?username=soulreaper02&label=PROFILE+VIEWS)
 
@@ -8,6 +8,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <!-- [<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit] -->
 
+<br/>
 
 - 👨🏾‍💻 I'm currently working as a Software Engineer @trustcheckr</span>
 - 🌱 I’m currently learning GO</span>
