@@ -56,8 +56,8 @@
 -----------
 
 <details>
-<summary>> ***Top Languages used***</summary>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&layout=compact)
+ <summary> <p> > ***Top Languages used*** </p> </summary>
+<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&layout=compact)</span>
 </details>
 -----------
 
