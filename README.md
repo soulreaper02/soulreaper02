@@ -48,18 +48,18 @@
 
 
 
-**My Github stats**
+> ***My Github stats***
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical&hide_title=true)
 -----------
 
-**Top Languages used**
+> ***Top Languages used***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&layout=compact)
 -----------
 
 
-**📕 Latest Blog Posts**
+> ***📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
 [Building facebook messenger chat bot](https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2)
