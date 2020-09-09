@@ -1,4 +1,4 @@
-## Hi there, I'm amit 👾
+## Hi there, I'm amit 👾                                                                                           ![visitors](https://visitor-badge.glitch.me/badge?page_id=soulreaper02.soulreaper02)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
