@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning GO
 - 🔥 2020 Goals - Contribute to open source projects
 - ❤️ I love to travel and code.
-- ⚡ Quote: “Simplicity is prerequisite for reliability.” — Edsger Dijkstra
+- ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
 
 <br />
 
