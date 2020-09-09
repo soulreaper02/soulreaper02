@@ -45,6 +45,10 @@
 [<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>][firebase]
 -----------
 
+
+<!--START_SECTION:activity-->
+
+
 **My Github stats**
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical)
