@@ -11,6 +11,8 @@
 - ❤️ I love to travel and code.
 - ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
 <br />
 
 
