@@ -5,13 +5,11 @@
 <!-- [<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit] -->
 
 
-- 👨🏾‍💻 I'm currently working as a Software Engineer @trustcheckr
+- 👨🏾‍💻 [<span style="font-family: 'Lucida Console';">I'm currently working as a Software Engineer @trustcheckr</span>]
 - 🌱 I’m currently learning GO
 - 🔥 2020 Goals - Contribute to open source projects
 - ❤️ I love to travel and code.
 - ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
-
-<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 <br />
 
