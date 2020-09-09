@@ -1,13 +1,15 @@
 ### Hi there, I'm amit 👾
 
-## In permenant beta mode!
+**Languages and Tools:**
+
 - 👨🏾‍💻I am currently working as a techonlogy lead @trustcheckr
 - 📚I am currently learning everything 
 - 🔥2020 Goals - Contribute to open source projects
 - ❤️ I love to travel and code.
 
 
-### Connect with me
+**Languages and Tools:**
+
 [<img align="left" alt="soulreaper02 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="soulreaper02 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="soulreaper02 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -16,7 +18,7 @@
 <br />
 
 
-### Languages & Tools
+**Languages and Tools:**
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Nodejs]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -35,15 +37,18 @@
 <br />
 
 --------
+**My Github stats:**
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical)
 
----------
+
+**Top Languages used:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper)
 -----------
 
-### 📕 Latest Blog Posts
+
+**📕 Latest Blog Posts:**
 
 <!-- BLOG-POST-LIST:START -->
 [Building facebook messenger chat bot](https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2)
