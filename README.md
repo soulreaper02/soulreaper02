@@ -1,6 +1,6 @@
 ## Hi there, I'm amit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![visitors count](https://visitor-badge.glitch.me/badge?page_id=soulreaper02.soulreaper02)
+![](https://komarev.com/ghpvc/?username=soulreaper02&label=PROFILE+VIEWS)
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
@@ -62,17 +62,11 @@
 - [Build your own facebook messenger bot with node.js](https://blog.usejournal.com/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2?source=rss-c3926c24b959------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-<!-- <br />
 <br />
 
 <a href="https://github.com/soulreaper02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&hide=java,html,css&hide_title=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/soulreaper02">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical&hide_title=true" alt="soulreaper02 github stats" />
-</a> -->
+</a>
 
 
 
