@@ -1,7 +1,7 @@
 ### Hi there, I'm amit 👾
 
-**Languages and Tools:**
-
+<br />
+<br />
 
 - 👨🏾‍💻I am currently working as a techonlogy lead @trustcheckr
 - 📚I am currently learning everything 
@@ -11,7 +11,7 @@
 <br />
 <br />
 
-**Languages and Tools:**
+**Connect**
 
 
 
@@ -23,7 +23,7 @@
 <br />
 
 
-**Languages and Tools:**
+**Languages and Tools**
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][Nodejs]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
@@ -42,18 +42,18 @@
 <br />
 
 --------
-**My Github stats:**
+**My Github stats**
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical)
 -----------
 
-**Top Languages used:**
+**Top Languages used**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper)
 -----------
 
 
-**📕 Latest Blog Posts:**
+**📕 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 [Building facebook messenger chat bot](https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2)
