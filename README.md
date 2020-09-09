@@ -6,14 +6,10 @@
 
 
 - 👨🏾‍💻I am currently working as a Software Engineer @trustcheckr
-- 📚I am currently learning everything 
-- 🔥2020 Goals - Contribute to open source projects
+- 🌱 I’m currently learning GO
+- 🔥 2020 Goals - Contribute to open source projects
 - ❤️ I love to travel and code.
 - ⚡ Fun fact
->>> // Which came first: the chicken or the egg?
->>> console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
 
 <br />
 
