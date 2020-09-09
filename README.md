@@ -55,10 +55,8 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical&hide_title=true)
 -----------
 
-<details>
- <summary> <p> > ***Top Languages used*** </p> </summary>
-<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&layout=compact)</span>
-</details>
+> ***Top Languages***
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&layout=compact)
 -----------
 
 
