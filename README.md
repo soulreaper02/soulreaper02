@@ -13,6 +13,7 @@
 <br />
 
 
+![Spotify](https://spotify-listen.vercel.app/api/spotify)
 
 > ***Languages & Frameworks***
 
