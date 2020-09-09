@@ -1,4 +1,4 @@
-## Hi there, I'm amit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm AMIT <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=soulreaper02&label=PROFILE+VIEWS)
 
