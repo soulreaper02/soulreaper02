@@ -52,6 +52,7 @@
 > ***📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
+- [Build your own facebook messenger bot with node.js](https://blog.usejournal.com/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2?source=rss-c3926c24b959------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---------
