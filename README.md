@@ -64,7 +64,7 @@
 <!--END_SECTION:waka-->
 
 
-<br />
+<!-- <br />
 <br />
 
 <a href="https://github.com/soulreaper02">
@@ -72,7 +72,7 @@
 </a>
 <a href="https://github.com/soulreaper02">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical&hide_title=true" alt="soulreaper02 github stats" />
-</a>
+</a> -->
 
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=soulreaper02.soulreaper02)
