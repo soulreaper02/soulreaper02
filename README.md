@@ -1,4 +1,5 @@
-## Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+#### This is where i like to build & break things
 
 ![](https://komarev.com/ghpvc/?username=soulreaper02&label=PROFILE+VIEWS)
 
