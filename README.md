@@ -37,7 +37,6 @@
 [<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>][postgres]
 
 
-
 > ***Tools***
 
 [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>][github]
@@ -48,6 +47,8 @@
 [<img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>][firebase]
 -----------
 
+<br />
+<br />
 
 > ***📕 Latest Blog Posts***
 
@@ -55,8 +56,16 @@
 - [Build your own facebook messenger bot with node.js](https://blog.usejournal.com/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2?source=rss-c3926c24b959------2)
 <!-- BLOG-POST-LIST:END -->
 
----------
+<br />
+<br />
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+<br />
+<br />
 
 <a href="https://github.com/soulreaper02">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soulreaper&hide=java,html,css&hide_title=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
