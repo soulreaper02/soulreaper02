@@ -2,13 +2,18 @@
 
 **Languages and Tools:**
 
+
 - 👨🏾‍💻I am currently working as a techonlogy lead @trustcheckr
 - 📚I am currently learning everything 
 - 🔥2020 Goals - Contribute to open source projects
 - ❤️ I love to travel and code.
 
+<br />
+<br />
 
 **Languages and Tools:**
+
+
 
 [<img align="left" alt="soulreaper02 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="soulreaper02 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -40,7 +45,7 @@
 **My Github stats:**
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&theme=radical)
-
+-----------
 
 **Top Languages used:**
 
@@ -53,9 +58,6 @@
 <!-- BLOG-POST-LIST:START -->
 [Building facebook messenger chat bot](https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2)
 <!-- BLOG-POST-LIST:END -->
-
-
-----------
 
 [instagram]: https://www.instagram.com/amit_kumar_02
 [linkedin]: https://www.linkedin.com/in/amit-kumar-0206/
