@@ -12,9 +12,9 @@ This is the place where I build and break things :rofl:
 
 - 👨🏾‍💻 I'm currently working as a Software Engineer @trustcheckr</span>
 - 🌱 I’m currently learning GO</span>
-- 🔥 2020 Goals - Contribute to open source projects</span>2020 Goals - Contribute to open source projects
-- ❤️ I love to travel and code.r</span>I love to travel and code.
-- ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra</span>Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
+- 🔥 2020 Goals - Contribute to open source projects
+- ❤️ I love to travel and code.
+- ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
 
 <br />
 
