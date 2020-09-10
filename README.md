@@ -55,19 +55,7 @@ This is the place where I build and break things :rofl:
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-249-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 39 Contributions in the Year 2020
- > 
-> 📦 160.8 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 44 Public Repositories
- > 
-> 🔑 10 Private Repositories 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -95,8 +83,6 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-
 💬 Programming Languages: 
 Markdown                 14 mins             ████████████░░░░░░░░░░░░░   50.58% 
 YAML                     8 mins              ███████░░░░░░░░░░░░░░░░░░   30.04% 
@@ -116,22 +102,6 @@ twitter-bot              5 mins              ████░░░░░░░�
 Mac                      28 mins             █████████████████████████   100.0%
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               22 repos            ███████████████████░░░░░░   75.86% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
-Python                   1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
-HTML                     1 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/soulreaper02/soulreaper02/blob/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
