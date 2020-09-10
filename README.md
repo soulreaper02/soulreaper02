@@ -54,9 +54,6 @@ This is the place where I build and break things :rofl:
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -108,7 +105,6 @@ Mac                      28 mins             ███████████�
 
 
 <!--END_SECTION:waka-->
-</details>
 
 
 > ***📕 Latest Blog Posts***
@@ -119,10 +115,13 @@ Mac                      28 mins             ███████████�
 
 <br />
 
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
 <a href="https://github.com/soulreaper02">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=soulreaper02&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&theme=radical&hide_title=true" alt="soulreaper02 github stats" />
 </a>
-
+</details>
 
 
 
