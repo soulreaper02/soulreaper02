@@ -114,7 +114,7 @@ Mac                      5 hrs 28 mins       ███████████�
 > ***📕 Latest Blog Posts***
 
 <!-- BLOG-POST-LIST:START -->
-- [Build your own facebook messenger bot with node.js](https://blog.heyday.xyz/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2?source=rss-c3926c24b959------2)
+- [Build your own facebook messenger bot with node.js](https://medium.com/@slayer9191/build-your-own-facebook-messenger-bot-with-node-js-1f2ec0165d2?source=rss-c3926c24b959------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
