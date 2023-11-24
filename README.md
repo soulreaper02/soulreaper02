@@ -55,6 +55,8 @@ This is the place where I build and break things :rofl:
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2035%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.1%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -95,7 +97,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 23/11/2023 18:36:16 UTC
+ Last Updated on 24/11/2023 18:36:06 UTC
 <!--END_SECTION:waka-->
 
 
