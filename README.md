@@ -55,7 +55,7 @@ This is the place where I build and break things :rofl:
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-205.9%20thousand%20lines%20of%20code-blue)
 
@@ -84,20 +84,24 @@ Sunday                   22 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 21 mins       █████████████████░░░░░░░░   68.33 % 
+JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Bash                     21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thena-backend            3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/01/2025 18:43:52 UTC
+ Last Updated on 29/01/2025 18:42:58 UTC
 <!--END_SECTION:waka-->
 
 
