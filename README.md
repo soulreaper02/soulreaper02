@@ -8,15 +8,6 @@ This is the place where I build and break things :rofl:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <!-- [<img src="https://img.shields.io/badge/reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white" />][reddit] -->
 
-<br/>
-
-- 👨🏾‍💻 I'm currently working as a Software Engineer @trustcheckr</span>
-- 🌱 I’m currently learning GO</span>
-- 🔥 2020 Goals - Contribute to open source projects
-- ❤️ I love to travel and code.
-- ⚡ Quote: Simplicity is prerequisite for reliability. — Edsger Dijkstra
-
-<br />
 
 ### Spotify Playing 🎧
 ![Spotify](https://spotify-listen.vercel.app/api/spotify)
